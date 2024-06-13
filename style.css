@@ -10,7 +10,7 @@ h1 {
 
 div {
     vertical-align: top;
-    width: 40%;
+    width: 25%;
     background-color: gold;
     display: inline-block;
     width: 20%;
@@ -53,6 +53,6 @@ button:active {
 
 .main-container {
     border-radius: 25px;
-    background-color: gold;
+    background-color: red;
     width: 85%
 }
