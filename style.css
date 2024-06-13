@@ -50,3 +50,9 @@ button:hover {
 button:active {
     transform:translateY(5px);
 }
+
+.main-container {
+    border-radius: 25px;
+    background-color: gold;
+    width: 85%
+}
